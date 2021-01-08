@@ -1,0 +1,42 @@
+[23-Dec-2019 17:01:42 Asia/Bangkok] PHP Notice:  Undefined index: signup in /home/ifernati/public_html/Ivadora/register.php on line 137
+[23-Dec-2019 17:02:58 Asia/Bangkok] PHP Notice:  Undefined index: signup in /home/ifernati/public_html/Ivadora/register.php on line 137
+[23-Dec-2019 17:04:00 Asia/Bangkok] PHP Notice:  Undefined index: signup in /home/ifernati/public_html/Ivadora/register.php on line 137
+[23-Dec-2019 17:05:36 Asia/Bangkok] PHP Notice:  Undefined index: signup in /home/ifernati/public_html/Ivadora/register.php on line 137
+[23-Dec-2019 17:06:35 Asia/Bangkok] PHP Notice:  Undefined index: firstname in /home/ifernati/public_html/Ivadora/register.php on line 137
+[23-Dec-2019 17:06:56 Asia/Bangkok] PHP Notice:  Undefined index: firstname in /home/ifernati/public_html/Ivadora/register.php on line 137
+[23-Dec-2019 17:09:11 Asia/Bangkok] PHP Notice:  Undefined index: firstname in /home/ifernati/public_html/Ivadora/register.php on line 137
+[23-Dec-2019 17:15:39 Asia/Bangkok] PHP Notice:  Undefined variable: eventdate in /home/ifernati/public_html/Ivadora/register.php on line 137
+[23-Dec-2019 17:19:42 Asia/Bangkok] PHP Notice:  Undefined variable: stmt in /home/ifernati/public_html/Ivadora/register.php on line 137
+[23-Dec-2019 17:20:44 Asia/Bangkok] PHP Notice:  Undefined variable: test in /home/ifernati/public_html/Ivadora/register.php on line 137
+[23-Dec-2019 17:22:16 Asia/Bangkok] PHP Notice:  Undefined variable: test in /home/ifernati/public_html/Ivadora/register.php on line 137
+[23-Dec-2019 17:28:50 Asia/Bangkok] PHP Notice:  Undefined variable: test in /home/ifernati/public_html/Ivadora/register.php on line 137
+[23-Dec-2019 17:31:11 Asia/Bangkok] PHP Notice:  Undefined variable: test in /home/ifernati/public_html/Ivadora/register.php on line 137
+[23-Dec-2019 17:32:12 Asia/Bangkok] PHP Notice:  Undefined index: newregister in /home/ifernati/public_html/Ivadora/register.php on line 7
+[23-Dec-2019 17:32:12 Asia/Bangkok] PHP Notice:  Undefined variable: test in /home/ifernati/public_html/Ivadora/register.php on line 137
+[23-Dec-2019 17:33:40 Asia/Bangkok] PHP Notice:  Undefined index: newregister in /home/ifernati/public_html/Ivadora/register.php on line 7
+[23-Dec-2019 17:33:40 Asia/Bangkok] PHP Notice:  Undefined variable: test in /home/ifernati/public_html/Ivadora/register.php on line 137
+[23-Dec-2019 17:35:22 Asia/Bangkok] PHP Notice:  Undefined index: newregister in /home/ifernati/public_html/Ivadora/register.php on line 7
+[23-Dec-2019 17:35:22 Asia/Bangkok] PHP Notice:  Undefined variable: test in /home/ifernati/public_html/Ivadora/register.php on line 137
+[23-Dec-2019 17:43:50 Asia/Bangkok] PHP Notice:  Undefined index: newregister in /home/ifernati/public_html/Ivadora/register.php on line 7
+[23-Dec-2019 17:43:50 Asia/Bangkok] PHP Notice:  Undefined variable: test in /home/ifernati/public_html/Ivadora/register.php on line 137
+[23-Dec-2019 17:45:45 Asia/Bangkok] PHP Notice:  Undefined index: newregister in /home/ifernati/public_html/Ivadora/register.php on line 7
+[23-Dec-2019 17:45:45 Asia/Bangkok] PHP Notice:  Undefined variable: test in /home/ifernati/public_html/Ivadora/register.php on line 137
+[23-Dec-2019 17:47:56 Asia/Bangkok] PHP Notice:  Undefined index: newregister in /home/ifernati/public_html/Ivadora/register.php on line 7
+[23-Dec-2019 17:47:56 Asia/Bangkok] PHP Notice:  Undefined variable: test in /home/ifernati/public_html/Ivadora/register.php on line 137
+[23-Dec-2019 17:48:15 Asia/Bangkok] PHP Notice:  Undefined index: newregister in /home/ifernati/public_html/Ivadora/register.php on line 7
+[23-Dec-2019 17:48:15 Asia/Bangkok] PHP Notice:  Undefined variable: test in /home/ifernati/public_html/Ivadora/register.php on line 137
+[24-Dec-2019 09:19:32 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ifernati/public_html/Ivadora/product.php on line 80
+[24-Dec-2019 09:19:47 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ifernati/public_html/Ivadora/product.php on line 80
+[24-Dec-2019 09:19:56 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ifernati/public_html/Ivadora/product.php on line 80
+[31-Dec-2019 22:15:34 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/ifernati/public_html/Ivadora/reset.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ifernati/public_html/Ivadora/reset.php on line 37
+[31-Dec-2019 22:15:42 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/ifernati/public_html/Ivadora/reset.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ifernati/public_html/Ivadora/reset.php on line 37
+[31-Dec-2019 22:15:51 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/ifernati/public_html/Ivadora/reset.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ifernati/public_html/Ivadora/reset.php on line 37
